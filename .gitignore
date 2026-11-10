@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+storage/
+tmp/
+output/
+appsettings.Local.json
+TestResults/
+*.db
+
